@@ -26,19 +26,19 @@ Aprender o básico sobre contribuição no GitHub.
   </thead>
   <tbody align="left">
     <tr>
-      <td>01</td>
+      <td>001</td>
       <td>Introdução ao Lab</td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>002</td>
       <td>Formas de Contribuir num Projeto Open Source</td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>003</td>
       <td>Desenvolvendo e Enviando uma Contribuição</td>  
     </tr>
     <tr>
-      <td>04</td>
+      <td>004</td>
       <td>Dicas e Materiais de Apoio</td>    
     </tr>
   </tbody>
